@@ -1,0 +1,40 @@
+body{
+    text-align: center
+}
+
+#hobbyP{
+    background-color:pink;
+}
+
+body{
+    background-color: pink;
+
+}
+
+h1{
+    color:white;
+    border-style:solid;
+    text-shadow:2px 2px gainsboro;
+}
+
+h2{
+    color:white;
+    font-family:monospace;
+    font-size:25px;
+}
+
+#profile{
+    border-style: solid;
+    border-color: black;
+    border-width:thick;
+}
+
+#mam{
+    height:25%;
+    width:15%;
+    border-style: solid;
+    border-color: black;
+    border-width:medium;
+    
+}
+
